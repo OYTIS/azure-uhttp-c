@@ -15,3 +15,4 @@ function(add_sample_directory whatIsBuilding)
 endfunction()
 
 add_sample_directory(uhttp_sample)
+add_sample_directory(uhttp_sample_tls)
